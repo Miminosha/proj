@@ -5,4 +5,8 @@ public class MainApplication {
         System.out.println("Hello world!");
         System.out.println("Good morning!");
     }
+
+    public static void doSomething() {
+        System.out.println(1);
+    }
 }
